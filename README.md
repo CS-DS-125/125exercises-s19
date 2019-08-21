@@ -7,6 +7,9 @@ Exercises are organized by their corresponding chapter in
 [*The Python and Pandas Field Guide: An Introduction to Computer and Data
 Science*](https://snakebear.science/).
 
+Try them out!  Run the notebooks now in your browser using Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CS-DS-125/125exercises-s19/master?urlpath=lab)
+
 ## Authors
 
 Mark Liffiton and Brad Sheese
